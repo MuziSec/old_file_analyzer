@@ -1,5 +1,8 @@
-Going to build something with Laika instead.
+# UPDATE
+This was just a little file analyzer I made one night for fun. It's kinda neat, but unreliable and very hacked together. I plan to fork laika and push updates to the new repo periodically as a fun little side project.
 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Dependencies:
 
 Install oletools:
