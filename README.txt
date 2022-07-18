@@ -22,12 +22,12 @@ Directory Structure:
 scripts/
        output/
        carved_files/
-       lazyjared.py
+       lazyanalyzer.py
 
 
 How to run:
 
-python3 lazyjared.py --infile file
+python3 lazyanalyzer.py --infile file
 
 Script will use hachoir to determine what type of file it is. It will get exif data using exiftool. Then it will extract and run various tools such as olevba, oleobj, vipermonkey.
 
